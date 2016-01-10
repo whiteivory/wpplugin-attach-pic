@@ -1,0 +1,1 @@
+将在template文件里面的内容改成用do_action()调用
